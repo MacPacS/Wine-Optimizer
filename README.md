@@ -19,6 +19,12 @@ Usage
     Choose the Script
     In the Python program, select the .sh file named optimize_wine.sh. This script will install necessary packages and optimize your system.
 
+    install wine tricks
+    to install winetricks to run all the programs u need to do: 
+    sudo apt update
+    sudo apt install winetricks
+    winetricks --version
+
     Clear the Terminal
     After installation, clean up your terminal screen.
 
